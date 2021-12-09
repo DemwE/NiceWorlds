@@ -1,3 +1,5 @@
+[Now you can download the modpack from CruseForge https://www.curseforge.com/minecraft/modpacks/niceworlds]
+
 How use modpack?
 
 1. Download CruseForge  (download link - https://download.curseforge.com)
