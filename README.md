@@ -17,5 +17,3 @@ How use modpack?
 
 4. And choose NiceWorlds.zip
 5. Wait for it to download all mods and you can play :)
-
-If you want to add mods to official packs, suggest them to me in issues.
