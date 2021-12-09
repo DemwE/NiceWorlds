@@ -2,7 +2,7 @@ Now you can download the modpack from CurseForge - https://www.curseforge.com/mi
 
 How use modpack?
 
-1. Download CruseForge  (download link - https://download.curseforge.com)
+1. Download CurseForge  (download link - https://download.curseforge.com)
 2. If you finish download CruseForge click "Create Custom Profile"
 
 ![image](https://user-images.githubusercontent.com/91313779/145373512-feaec68b-6494-45bb-953a-4193b8893147.png)
