@@ -11,5 +11,5 @@ Now you can download the modpack from CurseForge - https://www.curseforge.com/mi
 
 ![image](https://user-images.githubusercontent.com/91313779/145373698-979e2f2b-8660-4c89-926a-ac9b32b3a626.png)
 
-4. The next step click choose **NiceWorlds.zip**
+4. The next step choose **NiceWorlds.zip**
 5. Wait for it to download all mods and you can play :)
